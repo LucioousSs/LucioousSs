@@ -16,7 +16,7 @@
   <!-- 2. Animated Typing Headline (Tepat di bawah GIF) -->
   <div>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=550&lines=%3E+Hey+There!%2C+I+am+I+Putu+Adhiatman;%3E+Full-Stack+Web+Developer;%3E+IT+Student+%26+Tech+Enthusiast" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=550&lines=%3E+Hey+There!%2C+I+am+I+Putu+Adhiatman;%3E+Full-Stack+Web+Developer;%3E+IT+Student+%26+Tech+Enthusiast%3E+UI/UX+Designer;" alt="Typing SVG" />
     </a>
   </div>
 
@@ -59,6 +59,7 @@
 </div>
 
 ### 📑 About
+--
 
 <details open>
   <summary><b>Click to expand / collapse bio</b></summary>
@@ -69,3 +70,24 @@
   - 🛠️ **Current Focus:** Building dynamic portfolio projects with clean OOP architecture and relational databases.
   - 💬 **Ask me about:** Vanilla JavaScript, PHP PDO, Tailwind CSS, MySQL, or network configuration with Cisco.
 </details>
+--
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucioousSs/LucioousSs/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucioousSs/LucioousSs/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucioousSs/LucioousSs/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<!-- Spotify Recently Played Widget -->
+--
+### 🎵 Currently Playing on Spotify
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31z2s3bdahk3rlussry2usryzlai&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31z2s3bdahk3rlussry2usryzlai&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Status" />
+  </a>
+</p>
+
+---
