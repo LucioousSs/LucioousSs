@@ -8,7 +8,7 @@
 
   <!-- 1. Anime GIF Showcase -->
   <div>
-    <img src="https://i.imgur.com/UQUfpre.gif" width="280px" alt="Itachi Animation" style="border-radius: 12px;" />
+    <img src="https://i.imgur.com/1uUXSQU.gif" width="280px" alt="Itachi Animation" style="border-radius: 12px;" />
   </div>
 
   <br/>
@@ -57,3 +57,15 @@
   </p>
 
 </div>
+
+### 📑 About
+
+<details open>
+  <summary><b>Click to expand / collapse bio</b></summary>
+  <br/>
+
+  - 🎓 **Education:** Information Technology Student focused on Software Development & Network Engineering.
+  - 💻 **Tech Interests:** Crafting responsive web apps, RESTful backend APIs, and interactive UI micro-interactions.
+  - 🛠️ **Current Focus:** Building dynamic portfolio projects with clean OOP architecture and relational databases.
+  - 💬 **Ask me about:** Vanilla JavaScript, PHP PDO, Tailwind CSS, MySQL, or network configuration with Cisco.
+</details>
