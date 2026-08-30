@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,70:18181b,100:450a0a&height=190&section=header&text=I%20Putu%20Adhiatman&fontSize=38&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
 
   <br/>
-  <img src="https://media.giphy.com/media/7ISIRaCMrgFMeie2Nk/giphy.gif" width="140px" alt="Shinobi Animation" />
+  <img src="https://i.imgur.com/UQUfpre.gif" width="280px" alt="Itachi Uchiha Animation" style="border-radius: 12px;" />
 
   <br/>
   <a href="https://git.io/typing-svg">
@@ -28,3 +28,13 @@
 </div>
 
 ---
+
+### 💻 About Me
+
+```yaml
+name: I Putu Adhiatman
+role: Information Technology Student & Web Developer
+location: Denpasar, Bali, Indonesia 🌴
+focus: Full-Stack Web Development, Database Systems, Network Engineering
+currently_building: High-performance web applications & modern portfolio showcases
+passions: Clean Architecture (OOP), Responsive UI/UX, Interactive 3D Web
