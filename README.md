@@ -1,7 +1,7 @@
 <!-- Profile Views Counter Badge (Kanan Atas) -->
-<div align="right">
+<!-- <div align="right">
   <img src="https://komarev.com/ghpvc/?username=LucioousSs&label=Profile%20views&color=0e7490&style=flat-square" alt="Profile Views" />
-</div>
+</div> -->
 
 <!-- Header Container (Centered Stack) -->
 <div align="center">
