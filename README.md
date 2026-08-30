@@ -59,7 +59,6 @@
 </div>
 
 ### 📑 About
---
 
 <details open>
   <summary><b>Click to expand / collapse bio</b></summary>
@@ -70,7 +69,6 @@
   - 🛠️ **Current Focus:** Building dynamic portfolio projects with clean OOP architecture and relational databases.
   - 💬 **Ask me about:** Vanilla JavaScript, PHP PDO, Tailwind CSS, MySQL, or network configuration with Cisco.
 </details>
---
 
 <div align="center">
   <picture>
@@ -81,7 +79,6 @@
 </div>
 
 <!-- Spotify Recently Played Widget -->
---
 ### 🎵 Currently Playing on Spotify
 
 <p align="center">
@@ -90,4 +87,3 @@
   </a>
 </p>
 
----
