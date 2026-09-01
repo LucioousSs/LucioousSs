@@ -8,7 +8,7 @@
 
   <!-- 1. Anime GIF Showcase -->
   <div>
-    <img src="https://i.imgur.com/GEzu1nW.gif" width="550px" alt="Itachi Animation" style="border-radius: 14px;" />
+    <img src="https://i.imgur.com/1uUXSQU.gif" width="550px" alt="Itachi Animation" style="border-radius: 14px;" />
   </div>
   
   <br/>
