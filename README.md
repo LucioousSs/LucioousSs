@@ -1,7 +1,7 @@
 <div align="center">
 
   <div>
-    <img src="https://i.imgur.com/1uUXSQU.gif" width="880px" alt="Itachi Animation" style="border-radius: 20px;" />
+    <img src="https://i.imgur.com/1uUXSQU.gif" width="600px" alt="Itachi Animation" style="border-radius: 20px;" />
   </div>
   <br/>
 
