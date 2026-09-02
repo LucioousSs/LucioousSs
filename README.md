@@ -4,8 +4,9 @@
     <img src="https://i.imgur.com/1uUXSQU.gif" width="550px" alt="Itachi Animation" style="border-radius: 14px;" />
   </div>
   <br/>
-  ###
 
+  <hr style="border: 2px solid #8B0000; width: 60%; margin: 24px auto;" />
+  
   <div>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=550&lines=%3E+Hey+There!%2C+I+am+I+Putu+Adhiatman;%3E+Full-Stack+Web+Developer;%3E+IT+Student+%26+Tech+Enthusiast;%3E+UI/UX+Designer;" alt="Typing SVG" />
@@ -50,7 +51,8 @@
 
 </div>
 
-## 📑 About
+📑 About
+<hr style="border: 2px solid #8B0000; width: 60%; margin: 24px auto;" />
 <details open>
   <summary><b>Click to expand / collapse bio</b></summary>
   <br/>
@@ -76,4 +78,3 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31z2s3bdahk3rlussry2usryzlai&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Status" />
   </a>
 </p>
-###
