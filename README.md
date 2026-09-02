@@ -1,7 +1,7 @@
 <div align="center">
 
   <div>
-    <img src="https://i.imgur.com/1uUXSQU.gif" width="550px" alt="Itachi Animation" style="border-radius: 14px;" />
+    <img src="https://i.imgur.com/1uUXSQU.gif" width="550px" alt="Itachi Animation" style="border-radius: 20px;" />
   </div>
   <br/>
 
@@ -51,8 +51,9 @@
 
 </div>
 
-📑 About
 <hr style="border: 2px solid #8B0000; width: 60%; margin: 24px auto;" />
+
+## 📑 About
 <details open>
   <summary><b>Click to expand / collapse bio</b></summary>
   <br/>
