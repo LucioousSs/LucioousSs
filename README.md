@@ -11,7 +11,7 @@
     <img src="https://i.imgur.com/1uUXSQU.gif" width="550px" alt="Itachi Animation" style="border-radius: 14px;" />
   </div>
   <br/>
-  ##
+  ###
   <!-- 2. Animated Typing Headline (Tepat di bawah GIF) -->
   <div>
     <a href="https://git.io/typing-svg">
@@ -68,7 +68,7 @@
   - 💬 **Ask me about:** Vanilla JavaScript, PHP PDO, Tailwind CSS, MySQL, or network configuration with Cisco.
 </details>
 
-## 
+### 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucioousSs/LucioousSs/output/github-contribution-grid-snake-dark.svg">
@@ -76,11 +76,12 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucioousSs/LucioousSs/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-## 
+
 <!-- Spotify Recently Played Widget -->
+###
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31z2s3bdahk3rlussry2usryzlai&redirect=true" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31z2s3bdahk3rlussry2usryzlai&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Status" />
   </a>
 </p>
-
+###
