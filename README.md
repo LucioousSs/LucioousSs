@@ -15,7 +15,7 @@
 
   <p>
     <code>[ Undergraduate Information Technology Student &amp; Web Developer ]</code><br/>
-    <code>[ Based in Denpasar, Bali, Indonesia 🌴 ]</code>
+    <code>[ Based in Denpasar, Bali, Indonesia ]</code>
   </p>
 
   <p>
