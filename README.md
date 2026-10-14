@@ -1,17 +1,16 @@
 <div align="center">
 
-  <div>
-    <img src="https://i.imgur.com/1uUXSQU.gif" width="600px" alt="Itachi Animation" style="border-radius: 20px;" />
-  </div>
-  <br/>
+  <img src="https://i.imgur.com/1uUXSQU.gif" width="600" alt="Itachi Animation" />
 
-  <hr style="border: 2px solid #8B0000; width: 60%; margin: 24px auto;" />
-  
-  <div>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=550&lines=%3E+Hey+There!%2C+I+am+I+Putu+Adhiatman;%3E+Full-Stack+Web+Developer;%3E+IT+Student+%26+Tech+Enthusiast;%3E+UI/UX+Designer;" alt="Typing SVG" />
-    </a>
-  </div>
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=3" width="60%" alt="divider" />
+
+  <br/><br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=550&lines=%3E+Hey+There!+I+am+Putu+Adhiatman;%3E+Full-Stack+Web+Developer;%3E+IT+Student+%26+Tech+Enthusiast;%3E+UI%2FUX+Designer" alt="Typing SVG" />
+  </a>
 
   <p>
     <code>[ Undergraduate Information Technology Student &amp; Web Developer ]</code><br/>
@@ -22,47 +21,38 @@
     <a href="https://instagram.com/adhiatmn" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <a href="https://linkedin.com/in/USERNAME_LINKEDIN_KAMU" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:putuadhi133@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="http://portfolio.test" target="_blank">
+    <a href="https://URL_PORTFOLIO_KAMU" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
   </p>
 
-<hr style="border: 2px solid #8B0000; width: 60%; margin: 24px auto;" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=3" width="60%" alt="divider" />
+
+  <br/><br/>
 
   <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <br/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
 
 </div>
 
 <hr style="border: 2px solid #8B0000; width: 60%; margin: 24px auto;" />
-
-## 📑 About
-<details open>
-  <summary><b>Click to expand / collapse bio</b></summary>
-  <br/>
-
-  - 🎓 **Education:** Information Technology Student focused on Software Development & Network Engineering.
-  - 💻 **Tech Interests:** Crafting responsive web apps, RESTful backend APIs, and interactive UI micro-interactions.
-  - 🛠️ **Current Focus:** Building dynamic portfolio projects with clean OOP architecture and relational databases.
-  - 💬 **Ask me about:** Vanilla JavaScript, PHP PDO, Tailwind CSS, MySQL, or network configuration with Cisco.
-</details>
 
 <div align="center">
   <picture>
