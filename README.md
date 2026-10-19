@@ -101,8 +101,7 @@
 
 ## GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=LucioousSs&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B0000&icon_color=8B0000&text_color=808080" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucioousSs&layout=compact&hide_border=true&bg_color=00000000&title_color=8B0000&text_color=808080" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=LucioousSs&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B0000&icon_color=8B0000&text_color=808080" alt="GitHub Stats" />
 
 <br/>
 
