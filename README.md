@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.imgur.com/1uUXSQU.gif" width="600" alt="Itachi Animation" />
+  <img src="https://imgur.com/a/LAy2zgY" width="600" alt="Itachi Animation" />
 
   <br/><br/>
 
@@ -75,9 +75,6 @@
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 
 ## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=LucioousSs&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B0000&icon_color=8B0000&text_color=808080" alt="GitHub Stats" />
-
 <br/>
 
 <picture>
