@@ -74,31 +74,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=3" width="60%" alt="divider" />
-
-## Featured Projects
-
-**☕ [KopiKhe](https://github.com/LucioousSs/KopiKhe-Website)** — Landing page brand kopi dengan sorotan di sisi visual: glassmorphism, parallax, animated gradient, dan scroll reveal. Mobile-first, dibangun tanpa framework.
-`UI Design` `HTML5` `CSS3` `JavaScript`
-
-**🛒 [UD. Kariasa](https://github.com/LucioousSs/ud-kariasa-web)** — Tugas akhir dari UKM kampus: website profil & katalog produk untuk warung sembako keluarga di Denpasar. Merancang alur dan tampilan dari halaman publik sampai panel admin.
-`UI Design` `Laravel` `Tailwind CSS` `MySQL`
-
-**🎨 [Portfolio Adhiatman](https://github.com/LucioousSs/portfolio-adhiatman)** — Website portfolio bergaya *bold modern monochrome*: kinetic typography, carousel project, dan grain texture overlay, lengkap dengan admin dashboard untuk mengelola isinya.
-`UI Design` `CSS3` `JavaScript` `PHP`
-
-**🤝 [KitaPeduli](https://github.com/KusumaJaya-00/KitaPeduli_Project)** — Platform donasi digital berbasis SPA: penjelajahan kampanye, pendaftaran relawan, dan admin dashboard, dibangun dengan arsitektur komponen. *(kontributor)*
-`JavaScript` `SPA`
-
-**📱 [ResepKu](https://github.com/KusumaJaya-00/ResepKu)** — Aplikasi Android berisi kumpulan resep masakan. Saya menangani layer datanya: `RetrofitClient`, `ApiService`, dan model `Resep`, plus menyusun dataset resepnya dalam JSON. *(kontributor)*
-`Kotlin` `Android` `Retrofit`
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=3" width="60%" alt="divider" />
-
-<div align="center">
-
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=LucioousSs&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B0000&icon_color=8B0000&text_color=808080" alt="GitHub Stats" />
