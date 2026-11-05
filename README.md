@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://imgur.com/a/LAy2zgY" width="600" alt="Itachi Animation" />
+  <img src="https://i.imgur.com/ojYtln5.gif" width="600" alt="Itachi Animation" />
 
   <br/><br/>
 
